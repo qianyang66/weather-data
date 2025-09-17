@@ -1,0 +1,13 @@
+records:
+  - cityCode: '001'
+    cityName: '城市A'
+    latitude: 30.0
+    longitude: 120.0
+    h3L4: '区域1'
+    locDescribe: '描述1'
+  - cityCode: '002'
+    cityName: '城市B'
+    latitude: 31.0
+    longitude: 121.0
+    h3L4: '区域2'
+    locDescribe: '描述2'
